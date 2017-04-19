@@ -3,4 +3,32 @@
   width: 200px;
   color: white;
   background-color: #000;
+  margin-top: 235px;
+}
+
+.center_tour {
+  text-align: center;
+}
+.big_headline {
+  font-family: monospace;
+  font-size: 80px;
+  text-align: center;
+  border:
+}
+
+img {
+  max-width: 900px;
+  max-height: auto;
+  margin-left: 60px;
+}
+
+.column {
+  float: left;
+  width: 250px;
+  margin: 10px;
+  text-align: center;
+}
+
+.columns {
+  margin-left: 80px;
 }
